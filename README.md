@@ -13,6 +13,9 @@ A beginner-friendly Python calculator project with basic arithmetic operations a
 ## Technologies
 - Python 3.14
 
+## screenshot
+![Calculator Screenshot]
+(screenshot.png)
 
 ## How to Run
 
