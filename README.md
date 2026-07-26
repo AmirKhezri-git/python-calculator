@@ -15,7 +15,7 @@ A beginner-friendly Python calculator project with basic arithmetic operations a
 
 ## screenshot
 ![Calculator Screenshot]
-(screenshot.png)
+(screenshot.png.png)
 
 ## How to Run
 
