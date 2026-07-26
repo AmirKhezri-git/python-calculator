@@ -19,6 +19,9 @@ A beginner-friendly Python calculator project with basic arithmetic operations a
 ```bash
 python calculator.py
 ```
+## screenshot
+![Calculator Screenshot]
+(screenshot.png.png)
 
 ## 👨‍💻 Author
 
